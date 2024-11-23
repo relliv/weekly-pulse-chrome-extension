@@ -1,11 +1,7 @@
-# ReactJS Chrome Extension
+# Weekly Pulse Chrome Extension
 
-## React 18 and TailwindCSS Supported
+Weekly Pulse is a week number calculator that tells you the current week number in the year.
 
-- [x] Webpack Compatible
-- [x] TailwindCSS 3.0 Compatible
-
-Subscribe to my youtube channel
-https://bit.ly/manshu
-
-<a href="https://www.buymeacoffee.com/batraio" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
+<a href="https://www.flaticon.com/free-icons/number-1" title="number 1 icons">
+Number 1 icons created by Shuvo.Das - Flaticon
+</a>

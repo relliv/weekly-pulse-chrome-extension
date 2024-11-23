@@ -1,7 +1,7 @@
 {
   "manifest_version": 3,
   "name": "weekly-pulse",
-  "description": "Weekly Pulse is a week number calculator that tells you the current week number and the number of weeks remaining in the year.",
+  "description": "Weekly Pulse is a week number calculator that tells you the current week number in the year.",
   "version": "1.0.0",
   "action": {
     "default_popup": "popup.html",
