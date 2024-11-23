@@ -1,15 +1,15 @@
 {
   "manifest_version": 3,
-  "name": "react-todo",
-  "description": "Todo for chrome extension",
+  "name": "weekly-pulse",
+  "description": "Weekly Pulse is a week number calculator that tells you the current week number and the number of weeks remaining in the year.",
   "version": "1.0.0",
   "action": {
     "default_popup": "popup.html",
-    "default_title": "React Todo",
+    "default_title": "Weekly Pulse",
     "default_icon": "icon.png"
   },
 
-  "permissions": ["tabs", "bookmarks", "storage", "identity"],
+  "permissions": ["tabs"],
   "icons": {
     "16": "icon.png",
     "48": "icon.png",
